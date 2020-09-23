@@ -5,7 +5,8 @@ Projeto de uma campo minado utilizando Flutter
 ## Sobre
 
 Projeto feito para criar um campo minado utilizando o framework do Flutter.
-A camada de controle foi implementada na camada de modelo.
+<br>
+Foi utilizado MVC para a implementação, porém, a camada de controle foi implementada na camada de modelo.
 
 ## Screenshots
 
